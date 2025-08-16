@@ -1,14 +1,18 @@
 # EPDs em Python
-Notebooks jupyter com laboratórios sobre conteúdos de introdução às EDPs. Esses arquivos foram desenhados para a disciplina EDB, lecionada na UFMG.
 
-Os principais conteúdos são
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aniura/EPDs_em_Python/main)
+
+Neste repositorio disponibilizamos notebooks jupyter com atividades sobre conteúdos de introdução às EDPs. Esses arquivos foram desenhados para a disciplina EDB, lecionada na UFMG.
+
+Por enquanto, os conteúdos contemplados são
 
 1. Introdução às EDPs.
 2. Série de Fourier.
-3. Equação do calor 1D.
-4. Equação da onda 1D.
-5. Equação de Laplace 2D.
-6. Transformada de Fourier.
 
-Por enquanto, só há notebooks sobre os dois primeiros conteúdos.
+No futuro, postaremos notebooks sobre
+
+4. Equação do calor 1D.
+5. Equação da onda 1D.
+6. Equação de Laplace 2D.
+
    
